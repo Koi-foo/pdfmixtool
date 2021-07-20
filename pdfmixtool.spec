@@ -21,11 +21,6 @@ BuildRequires: qt5-tools-devel
 BuildRequires: qt5-svg-devel
 BuildRequires(pre): rpm-macros-cmake
 
-Requires: libqpdf28
-Requires: libqt5-core
-Requires: libqt5-gui
-Requires: libqt5-widgets
-
 Summary: PDF Mix Tool is a simple PDF editing application
 Summary(ru_RU.UTF-8): PDF Mix Tool - это простое приложение для редактирования PDF-файлов
 
